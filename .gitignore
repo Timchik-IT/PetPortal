@@ -1,2 +1,14 @@
 # idea files
 .idea
+
+/PetPortal/PetPortal.API/bin
+/PetPortal/PetPortal.API/obj
+
+/PetPortal/PetPortal.Core/bin
+/PetPortal/PetPortal.Core/obj
+
+/PetPortal/PetPortal.Application/bin
+/PetPortal/PetPortal.Application/obj
+
+/PetPortal/PetPortal.DataAccess/bin
+/PetPortal/PetPortal.DataAccess/obj

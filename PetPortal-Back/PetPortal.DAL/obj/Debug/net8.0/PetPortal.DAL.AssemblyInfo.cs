@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetPortal.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5bfb9e88685ae373b97b2a36ef1512c684973f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf7d4d5ce69e570cdc57c3f289d57165d3d4128")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetPortal.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetPortal.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

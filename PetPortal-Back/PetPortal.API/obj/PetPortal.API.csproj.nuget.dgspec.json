@@ -117,13 +117,13 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0-preview.5.24306.3, )"
+              "version": "[9.0.0-preview.3.24172.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0-preview.5.24306.3, )"
+              "version": "[9.0.0-preview.3.24172.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -252,13 +252,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0-preview.5.24306.3, )"
+              "version": "[9.0.0-preview.3.24172.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0-preview.5.24306.3, )"
+              "version": "[9.0.0-preview.3.24172.4, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

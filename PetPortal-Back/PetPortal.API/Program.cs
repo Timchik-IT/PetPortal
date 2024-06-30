@@ -11,7 +11,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<PetPortalDbContext>(
     options =>
     {
-        options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(PetPortalDbContext)));
+        options.UseNpgsql("Host=localhost; Port=5432; User Id=postgres; Password=12345678; Database=PetPortal");
     });
 
 var app = builder.Build();

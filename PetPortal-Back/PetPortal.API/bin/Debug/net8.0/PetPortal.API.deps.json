@@ -11,7 +11,7 @@
           "Microsoft.AspNetCore.OpenApi": "8.0.6",
           "Microsoft.EntityFrameworkCore": "9.0.0-preview.3.24172.4",
           "Microsoft.EntityFrameworkCore.Design": "9.0.0-preview.3.24172.4",
-          "PetPoertal.Application": "1.0.0",
+          "PetPortal.Application": "1.0.0",
           "PetPortal.Core": "1.0.0",
           "PetPortal.DAL": "1.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -616,9 +616,9 @@
         }
       },
       "System.Threading.Channels/7.0.0": {},
-      "PetPoertal.Application/1.0.0": {
+      "PetPortal.Application/1.0.0": {
         "runtime": {
-          "PetPoertal.Application.dll": {}
+          "PetPortal.Application.dll": {}
         }
       },
       "PetPortal.Core/1.0.0": {
@@ -965,7 +965,7 @@
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
     },
-    "PetPoertal.Application/1.0.0": {
+    "PetPortal.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

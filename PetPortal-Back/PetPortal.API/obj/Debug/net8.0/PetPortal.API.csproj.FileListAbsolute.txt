@@ -116,9 +116,9 @@ C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\ne
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
-C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPoertal.Application.dll
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPortal.Core.dll
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPortal.DAL.dll
-C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPoertal.Application.pdb
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPortal.Core.pdb
 C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPortal.DAL.pdb
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPortal.Application.dll
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.API\bin\Debug\net8.0\PetPortal.Application.pdb

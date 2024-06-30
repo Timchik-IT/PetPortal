@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.API", "PetPortal.API\PetPortal.API.csproj", "{51EF7540-26C8-4914-907D-052480B3EB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.Core", "PetPortal.Core\PetPortal.Core.csproj", "{4BDFD1E9-9141-413C-8BE3-35B615CB8259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPoertal.Application", "PetPoertal.Application\PetPoertal.Application.csproj", "{2887A022-3287-42FD-A9DC-5B692E3EBB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.DAL", "PetPortal.DAL\PetPortal.DAL.csproj", "{5189DEF6-AE0B-4A12-855B-2C21850E38EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EF7540-26C8-4914-907D-052480B3EB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EF7540-26C8-4914-907D-052480B3EB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EF7540-26C8-4914-907D-052480B3EB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EF7540-26C8-4914-907D-052480B3EB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDFD1E9-9141-413C-8BE3-35B615CB8259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDFD1E9-9141-413C-8BE3-35B615CB8259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDFD1E9-9141-413C-8BE3-35B615CB8259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDFD1E9-9141-413C-8BE3-35B615CB8259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2887A022-3287-42FD-A9DC-5B692E3EBB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2887A022-3287-42FD-A9DC-5B692E3EBB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2887A022-3287-42FD-A9DC-5B692E3EBB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2887A022-3287-42FD-A9DC-5B692E3EBB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5189DEF6-AE0B-4A12-855B-2C21850E38EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5189DEF6-AE0B-4A12-855B-2C21850E38EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5189DEF6-AE0B-4A12-855B-2C21850E38EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5189DEF6-AE0B-4A12-855B-2C21850E38EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

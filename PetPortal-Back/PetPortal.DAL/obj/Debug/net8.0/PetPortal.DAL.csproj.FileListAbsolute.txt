@@ -1,0 +1,15 @@
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\bin\Debug\net8.0\PetPortal.DAL.deps.json
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\bin\Debug\net8.0\PetPortal.DAL.runtimeconfig.json
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\bin\Debug\net8.0\PetPortal.DAL.dll
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\bin\Debug\net8.0\PetPortal.DAL.pdb
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.csproj.AssemblyReference.cache
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.AssemblyInfoInputs.cache
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.AssemblyInfo.cs
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.csproj.CoreCompileInputs.cache
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.sourcelink.json
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.dll
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\refint\PetPortal.DAL.dll
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.pdb
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\PetPortal.DAL.genruntimeconfig.cache
+C:\Users\timur\RiderProjects\PetPortal\PetPortal-Back\PetPortal.DAL\obj\Debug\net8.0\ref\PetPortal.DAL.dll

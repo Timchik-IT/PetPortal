@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.API\\PetPortal.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPoertal.Application\\PetPoertal.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPoertal.Application\\PetPoertal.Application.csproj",
+        "projectName": "PetPoertal.Application",
+        "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPoertal.Application\\PetPoertal.Application.csproj",
+        "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPoertal.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.API\\PetPortal.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.API\\PetPortal.API.csproj",
+        "projectName": "PetPortal.API",
+        "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.API\\PetPortal.API.csproj",
+        "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPoertal.Application\\PetPoertal.Application.csproj": {
+                "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPoertal.Application\\PetPoertal.Application.csproj"
+              },
+              "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.Core\\PetPortal.Core.csproj": {
+                "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.Core\\PetPortal.Core.csproj"
+              },
+              "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.DAL\\PetPortal.DAL.csproj": {
+                "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.DAL\\PetPortal.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.Core\\PetPortal.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.Core\\PetPortal.Core.csproj",
+        "projectName": "PetPortal.Core",
+        "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.Core\\PetPortal.Core.csproj",
+        "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.DAL\\PetPortal.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.DAL\\PetPortal.DAL.csproj",
+        "projectName": "PetPortal.DAL",
+        "projectPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.DAL\\PetPortal.DAL.csproj",
+        "packagesPath": "C:\\Users\\timur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\timur\\RiderProjects\\PetPortal\\PetPortal-Back\\PetPortal.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\timur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.5.24306.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

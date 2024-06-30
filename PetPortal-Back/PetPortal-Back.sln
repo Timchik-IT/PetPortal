@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.API", "PetPortal.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.Core", "PetPortal.Core\PetPortal.Core.csproj", "{4BDFD1E9-9141-413C-8BE3-35B615CB8259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPoertal.Application", "PetPoertal.Application\PetPoertal.Application.csproj", "{2887A022-3287-42FD-A9DC-5B692E3EBB5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.Application", "PetPortal.Application\PetPortal.Application.csproj", "{2887A022-3287-42FD-A9DC-5B692E3EBB5C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetPortal.DAL", "PetPortal.DAL\PetPortal.DAL.csproj", "{5189DEF6-AE0B-4A12-855B-2C21850E38EA}"
 EndProject

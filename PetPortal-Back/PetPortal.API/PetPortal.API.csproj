@@ -17,7 +17,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\PetPoertal.Application\PetPoertal.Application.csproj" />
+      <ProjectReference Include="..\PetPortal.Application\PetPortal.Application.csproj" />
       <ProjectReference Include="..\PetPortal.Core\PetPortal.Core.csproj" />
       <ProjectReference Include="..\PetPortal.DAL\PetPortal.DAL.csproj" />
     </ItemGroup>

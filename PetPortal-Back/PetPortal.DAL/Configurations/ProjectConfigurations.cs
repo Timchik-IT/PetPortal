@@ -12,5 +12,8 @@ public class ProjectConfigurations : IEntityTypeConfiguration<ProjectEntity>
 
         builder.Property(p => p.Name)
             .IsRequired();
+
+        builder.Property(p => p.Description)
+            .IsRequired();
     }
 }

@@ -4,5 +4,13 @@ public class ProjectEntity
 {
     public Guid Id;
 
-    public string Name = String.Empty;
+    public string Name = string.Empty;
+
+    public string Description = string.Empty;
+
+    public Guid OwnerId;
+
+    // List of users
+
+    public UserEntity User;
 }

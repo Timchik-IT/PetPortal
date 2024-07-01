@@ -7,4 +7,8 @@
         <RootNamespace>PetPoertal.Application</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\PetPortal.Core\PetPortal.Core.csproj" />
+    </ItemGroup>
+
 </Project>

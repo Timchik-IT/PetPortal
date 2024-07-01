@@ -1,15 +1,14 @@
-# idea files
 .idea
-/PetPortal/.idea
+/PetPortal-Back/.idea
 
-/PetPortal/PetPortal.API/bin
-/PetPortal/PetPortal.API/obj
+/PetPortal-Back/PetPortal.API/bin/
+/PetPortal-Back/PetPortal.API/obj/
 
-/PetPortal/PetPortal.Core/bin
-/PetPortal/PetPortal.Core/obj
+/PetPortal-Back/PetPortal.Core/bin/
+/PetPortal-Back/PetPortal.Core/obj/
 
-/PetPortal/PetPortal.Application/bin
-/PetPortal/PetPortal.Application/obj
+/PetPortal-Back/PetPortal.Application/bin/
+/PetPortal-Back/PetPortal.Application/obj/
 
-/PetPortal/PetPortal.DataAccess/bin
-/PetPortal/PetPortal.DataAccess/obj
+/PetPortal-Back/PetPortal.DAL/bin/
+/PetPortal-Back/PetPortal.DAL/obj/
